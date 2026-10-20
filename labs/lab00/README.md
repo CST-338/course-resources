@@ -34,7 +34,6 @@ project-root/
 * the __resources__ folders are for static files
 	*  files that will not change: e.g. icons, images, csvs, sql scripts, etc.
 	*  Also where application.properties/application.yml files will be kept when working in SpringBoot
-*  __EDIT:__I got rid of this too.  ~~I've included files here because I want git to track them~~
 	*  Again, more on git later
 
 ## Creating Java Classes
