@@ -1,72 +1,16 @@
 # CST 338 Lab 00
 
-This lab serves as an introduction to IntelliJ, the IntelliJ Workflow, and how to turn in files.
+The Lab 00 handout is not kept here.
 
-## Outcomes
-* build familiarity with IntelliJ
-	* project structure
-	* creating files
-* Look at Java Syntax
-* Start exploring encapsulation
+Each student gets their own lab repository, and the handout ships inside it as `README.md`,
+alongside `lab01.md` and `lab02.md`. That is the copy to follow, because it sits next to the
+code it refers to and never drifts from the starter you were given.
 
-## What we will do
-* Create a class named 'Rectangle'
-	* We will keep building on this
-* Create a unit test for our 'Rectangle'
+This file used to hold a second copy of that handout. Two copies of the same instructions is
+one copy too many, so this is a pointer instead.
 
-## File Structure
-<pre>
-project-root/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── Rectangle.java
-│       ├── resources/
-│       │
-│       ├── test/
-│       │   └── RectangleTest.java
-│       └── resources/
-</pre>
-* __main/java__ is where our code lives
-* This is where the majority of our work will be done
-* __test/java__ is where, you guessed it, our tests will live
+## If you cannot find your repo
 
-* the __resources__ folders are for static files
-	*  files that will not change: e.g. icons, images, csvs, sql scripts, etc.
-	*  Also where application.properties/application.yml files will be kept when working in SpringBoot
-	*  Again, more on git later
-
-## Creating Java Classes
-1. Right click on src/main/java
-1. Select: New > Java Class
-1. Name it Rectangle
-
-### Creating a Java class
-In rectangle we are going to have two fields for height and width.  For now they will be ints.  It probably makes more sense for them to be floats but this is just for learning.
-
-1. Add two fields:
-  ```java
-  private int width;
-  private int height;
-  ```
-1. generate setters and getters
-2. generate a parameterized constructor
-3. create a no parameter constructor
-   1. 	use `this()` to call the parameterized constructor
-4. Create a method called `getArea()`
-   1. it is public
-   2. it takes no parameters
-   3. it returns an int (how do we calculate the area of a rectangle? ;) )
-5. create a method called `isSquare()`
-   1. it is public
-   2. it returns a boolean
-   3. what seperates a square from a rectangle?
-
-## Creating a Unit Test
-
-__In Rectangle.java__ 
-1. right click and select Generate...
-2. then select Test...
-3. the Testing Library should be `JUnit5`
-
-We will test instantiation, getters, setters, isSquare, and getArea()
+Check the invitation sent to your `@csumb.edu` address, then look at the course organization
+linked from Canvas. If GitHub did not connect the invitation to your account, see
+[Adding your CSUMB email to an existing GitHub account](../../student-guides/add-csumb-email-to-github.md).

@@ -23,8 +23,8 @@ granted through the `instructors` and `tas` teams, and nothing depends on one ac
 | [`2de98ae4`](https://gist.github.com/dclinkenbeard/2de98ae4535facf2577b3c3ed84b4427) | [`javafx/build.gradle.javafx22`](javafx/build.gradle.javafx22) | The same build pinned to JavaFX 22 |
 | [`a3f2ea70`](https://gist.github.com/dclinkenbeard/a3f2ea7085b572fa5c0ac220307cf498) | [`javafx/WINDOWS_ARM64_SETUP.md`](javafx/WINDOWS_ARM64_SETUP.md) | Running JavaFX on Windows on ARM |
 | [`68b9ec62`](https://gist.github.com/dclinkenbeard/68b9ec62cb9d19a70d65aa72c8222293) | [`gitignore/cst338.gitignore`](gitignore/cst338.gitignore) | The course `.gitignore` |
-| [`c8d74ac4`](https://gist.github.com/dclinkenbeard/c8d74ac423d189044e51f8baca3c3219) | [`labs/lab00/README.md`](labs/lab00/README.md) | Lab 00 |
-| [`36fc15d6`](https://gist.github.com/dclinkenbeard/36fc15d693b9e0839cd992639a3750d4) | [`starters/Polygon.md`](starters/Polygon.md), [`starters/Polygon.java`](starters/Polygon.java) | Polygon starter. **Canvas 35620 Lab01 now links the `.md`** |
+| [`c8d74ac4`](https://gist.github.com/dclinkenbeard/c8d74ac423d189044e51f8baca3c3219) | [`labs/lab00/README.md`](labs/lab00/README.md) | Lab 00. The handout itself now ships in each student's lab repo; this is a pointer |
+| [`36fc15d6`](https://gist.github.com/dclinkenbeard/36fc15d693b9e0839cd992639a3750d4) | [`starters/Polygon.md`](starters/Polygon.md), [`starters/Polygon.java`](starters/Polygon.java) | Polygon starter. **Canvas 35620 Lab02 links the `.md`** |
 | [`c1ff27c0`](https://gist.github.com/dclinkenbeard/c1ff27c0245cd864c29028d382919cad) | [`lecture-examples/Product.java`](lecture-examples/Product.java) | Lecture 14 example |
 | [`cfd9186e`](https://gist.github.com/dclinkenbeard/cfd9186e2bb06c5e8e2d1d13ed6e4ec0) | [`gymlog/README.md`](gymlog/README.md) | GymLog readme |
 | [`cd2deddf`](https://gist.github.com/dclinkenbeard/cd2deddff77225bbffe285cb8e2eb473) | [`gymlog/VIDEO_DESCRIPTIONS.md`](gymlog/VIDEO_DESCRIPTIONS.md) | GymLog walkthrough videos |
@@ -44,8 +44,7 @@ rather than a pending task:
 
 | Course | Assignment | Now links |
 |---|---|---|
-| 35620 | `653407` Lab01 : Shapes, Triangle and Polygon | [`starters/Polygon.md`](starters/Polygon.md) |
-| 35620 | `653408` Lab02, retired | [`starters/Polygon.md`](starters/Polygon.md) |
+| 35620 | `653408` Lab02 : ShapeReader, Polygon and unit tests | [`starters/Polygon.md`](starters/Polygon.md) |
 
 ## Deliberately not copied here
 

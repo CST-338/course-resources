@@ -1,10 +1,10 @@
 # Polygon starter
 
-Starter code for the `Polygon` work in **Lab01**. It gives two static helpers that map
+Starter code for the `Polygon` work in **Lab02**. It gives two static helpers that map
 between a side count and a polygon's name, so the naming is not the part of the lab anyone
 spends time on.
 
-**This is not the whole class.** Lab01 asks for a `Polygon` that implements `Shape`, with
+**This is not the whole class.** Lab02 asks for a `Polygon` that implements `Shape`, with
 `sideCount` and `sideLength` fields and a `getArea()` that returns
 
 ```
